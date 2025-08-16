@@ -7,4 +7,4 @@
 ну, собсна, этот мод может помочь вам с обнаружением этой детали.
 ТГ: @chlopushek
 ПИПИС: @truepipis
-[!["[[ПИПИС]]"](https://raw.githubusercontent.com/pwfsn0w/deltarune-mods/refs/heads/main/pipis.png)](https://raw.githubusercontent.com/pwfsn0w/deltarune-mods/refs/heads/main/pipis_big.png)
+[!["[[ПИПИС]]"](https://raw.githubusercontent.com/pwfsn0w/deltarune-mods/refs/heads/main/pipis.png )](https://raw.githubusercontent.com/pwfsn0w/deltarune-mods/refs/heads/main/pipis_big.png)
